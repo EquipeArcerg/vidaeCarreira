@@ -1,5 +1,5 @@
 
-# Colaboração
+# Colaboração: Os ideais e a missão da Equipe Arcerg em destaque.
 
 ## Nossos propósitos
 Como membros preocupados do corpo social brasileiro, buscamos através deste repositório elaborar soluções para problemas pertinentes e recorrentes na sociedade contemporânea, visando, sobretudo, proporcionar recursos que aprimorem a qualidade dos serviços prestados à população.
