@@ -35,6 +35,11 @@ A aplicação se dará em quaisquer contextos onde o emprego  dos nossos sistema
 Inicialmente, será feito o levantamento acerca do funcionamento do sistema utilizado anteriormente (se houver), bem como anotações para o entendimento das expectativas e necessidades dos clientes. Em seguida, buscaremos promover a implementação dos nossos sistemas, visando suprir todas as necessidades deste, gerando, de maneira efetiva, a solução para os problemas e aceleração dos processos daquela instituição. 
 A terceira etapa ocorrerá após a elaboração do sistema, onde construiremos as noções do funcionamento do sistema nos usuários, de modo que possam ter pleno domínio da ferramenta. Por fim, iremos promover a homologação do sistema, trazendo, assim, a resolução das problemáticas, bem como firmaremos os princípios e valores inerentes à Equipe Arcerg. 
 
+## Como nos contatar?
+
+A nossa equipe encontra-se sempre ativa para contato primordialmente por via e-mail, no endereço: EquipeArcerg@gmail.com
+Garantiremos a plena atenção às suas necessidades e visaremos oferecer as melhores soluções, bem como nos disponibilizamos a elucidar quaisquer dúvidas acerca de projetos ou nossos valores. 
+
 
 
   
