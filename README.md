@@ -1,6 +1,6 @@
 # Título do projeto
 
-![Capa do Projeto] https://www.canva.com/design/DAE-_oQdlpk/jJSXtc0CHyBd74Kjc3Pumg/edit?utm_content=DAE-_oQdlpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Capa do Projeto]
 
 # Sobre o projeto
 A Equipe Arcerg trás por intermédio deste repositório um novo projeto voltado para a área da saúde, visando promover um aumento na eficiência e gestão de insumos e pacientes, ofertando, assim, uma maior qualidade para o serviço hospitalar público e privado prestado no Brasil. Tal projeto será pautado na implementação de um sistema que interligará os diversos departamentos e instituições ao governo estadual e aos pacientes. Com duas versões (uma para pacientes e a outra para organizações) trará respostas em tempo real que possibilitarão a gestão de pessoas, com vistas a evitar superlotações, e de insumos, a fim de garantir o estoque mínimo de uma unidade de saúde.
