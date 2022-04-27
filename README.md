@@ -1,7 +1,7 @@
 # Título do projeto
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100960931/165643681-1ff1f43e-42c5-4ae0-a5ea-0c44c18e617f.jpeg)" />
+<img src="![imagem trabalho](https://user-images.githubusercontent.com/100960931/165643681-1ff1f43e-42c5-4ae0-a5ea-0c44c18e617f.jpeg)" width="700px" />
 </div>
 
 # Sobre o projeto
