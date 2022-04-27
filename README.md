@@ -1,7 +1,7 @@
 # Título do projeto
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/100960931/165645136-b898f051-b1e5-45c6-b5fb-f280ae7dd446.jpeg" width="500px" />
 </div>
 
 # Sobre o projeto
